@@ -10,8 +10,10 @@ PlanMyTrip is a top travel technology company specialized in internet related se
 
 **Software:** Python 3.9.7, Anaconda 4.10.3, Jupyter Notebook 6.4.5
 
-[(https://developers.google.com/maps/documentation/directions/overview)]
-[](https://jupyter-gmaps.readthedocs.io/en/latest/)
-[](https://github.com/wingchen/citipy)
-[](https://jupyter-gmaps.readthedocs.io/en/latest/)
-[](https://openweathermap.org/current)
+****Data Source:**
+
+Google Maps Directions API :[(https://developers.google.com/maps/documentation/directions/overview)]
+Jupyter-gmaps: [(https://jupyter-gmaps.readthedocs.io/en/latest/)]
+citipy: [(https://github.com/wingchen/citipy)]
+Google Maps and Places API: [(https://jupyter-gmaps.readthedocs.io/en/latest/)]
+OpenWeatherMap API: [(https://openweathermap.org/current)]
